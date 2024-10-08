@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-groq
+langchain_community
+langchain_huggingface
+
+
